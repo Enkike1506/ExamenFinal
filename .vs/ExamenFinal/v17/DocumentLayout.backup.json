@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\examenfinal\\vistas\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\vaki2\\source\\repos\\examenfinal\\examenfinal\\capalogica\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\capalogica\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\examenfinal\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\vaki2\\source\\repos\\examenfinal\\examenfinal\\vistas\\plantilla.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\plantilla.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\examenfinal\\capamodelo\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92020539-C272-498B-8568-45ED5BC0DFCC}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\capamodelo\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plantilla.Master",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Plantilla.Master",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Plantilla.Master",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Plantilla.Master",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Plantilla.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T04:04:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\Empleados.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\CapaLogica\\Empleados.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\Empleados.cs",
+              "RelativeToolTip": "ExamenFinal\\CapaLogica\\Empleados.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:55:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaModelo\\ClsEmpleado.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\CapaModelo\\ClsEmpleado.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaModelo\\ClsEmpleado.cs",
+              "RelativeToolTip": "ExamenFinal\\CapaModelo\\ClsEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:52:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.aspx",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleado.aspx",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Empleado.aspx",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleado.aspx*",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Empleado.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T03:45:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Asignacion.aspx.cs",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Asignacion.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:29:18.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
